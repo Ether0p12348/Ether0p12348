@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ether0p12348
-- 👀 I’m interested in Minecraft and Web Development/Design
-- 🌱 I’m currently learning Java, Php, JavaScript, HTML, CSS, Json, C#/C++, etc.
-- 💞️ I’m looking to collaborate on Minecraft map creations
-- 📫 How to reach me: Discord - Ether0p12348#0001
+- 👀 I’m interested in various programming projects (at the point of making this, Discord Bots, Website Backend, Database management/design, Server Management/Development)
+- 🌱 I’m constantly learning Php, Java, JavaScript, HTML, CSS, Python, etc.
+- 📫 How to reach me: Discord - ether0p12348
