@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Ether0p12348
 - 👀 I’m interested in various programming projects (at the point of making this, Discord Bots, Website Backend, Database management/design, Server Management/Development)
 - 🌱 I’m constantly learning Php, Java, JavaScript, HTML, CSS, Python, etc.
-- 📫 How to reach me: Discord - ether0p12348
+- 📫 How to reach me:
+ - Discord - ether0p12348
+ - Email   - robinse@arcey.net
