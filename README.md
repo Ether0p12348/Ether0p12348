@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ether0p12348
-- 👀 I’m interested in various programming projects (at the point of writing this, Minecraft Plugins, Discord Bots, Spring Boot (API), Website Backend/Frontend, Database Administration/Design, Server Administration)
+- 👀 I’m interested in various programming projects (at the point of writing this, Minecraft Plugins, Discord Bots, Spring Boot (API), Website Backend/Frontend, Database Administration/Design, System Administration)
 - 🌱 I’m constantly learning Php, Java, JavaScript, HTML, CSS, Python, etc.
 - 📫 How to reach me:
   - Discord - ether0p12348
